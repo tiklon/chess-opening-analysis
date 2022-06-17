@@ -1,0 +1,4 @@
+chess
+stockfish
+ete3
+argparse
